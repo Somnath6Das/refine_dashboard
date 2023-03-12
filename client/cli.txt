@@ -1,0 +1,2 @@
+npm create refine-app@latest client
+npm install apexcharts react-apexcharts
